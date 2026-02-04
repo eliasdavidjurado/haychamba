@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.base44.haychamba.twa",
+      "sha256_cert_fingerprints": [
+        "6E:E9:EB:F7:10:F0:53:19:65:2D:02:B0:DA:E2:97:4E:8D:B8:25:B7:17:EA:FA:05:22:06:B3:12:D7:EE:BC:D6"
+      ]
+    }
+  }
+]
